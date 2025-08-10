@@ -70,7 +70,7 @@ params:
 
     comments:
         enabled: true
-        provider: utterances
+        provider: giscus
 
         disqusjs:
             shortname:
@@ -131,11 +131,11 @@ params:
             siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
         giscus:
-            repo:
-            repoID:
-            category:
-            categoryID:
-            mapping:
+            repo: nigezaizi/nigezaizi.github.io
+            repoID: 79214313
+            category: learning
+            categoryID: 
+            mapping: pathname
             lightTheme:
             darkTheme:
             reactionsEnabled: 1
