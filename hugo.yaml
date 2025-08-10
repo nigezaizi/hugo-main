@@ -132,14 +132,15 @@ params:
 
         giscus:
             repo: nigezaizi/nigezaizi.github.io
-            repoID: 79214313
-            category: learning
-            categoryID: 
+            repoID: R_kgDOPbJ8DA
+            category: Ideas
+            categoryID: DIC_kwDOPbJ8DM4Ct_0Q
             mapping: pathname
             lightTheme:
             darkTheme:
             reactionsEnabled: 1
             emitMetadata: 0
+            lang: "zh-CN"
 
         gitalk:
             owner:
