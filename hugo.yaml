@@ -133,7 +133,7 @@ params:
         giscus:
             repo: nigezaizi/nigezaizi.github.io
             repoID: R_kgDOPbJ8DA
-            category: Ideas
+            category: Announcements
             categoryID: DIC_kwDOPbJ8DM4Ct_0Q
             mapping: pathname
             lightTheme:
